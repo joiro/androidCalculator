@@ -6,3 +6,5 @@ Status:
 - Basic calculations work but lot's of errors 
 
 Pleas feel free to improve!
+
+![alt tag](https://github.com/joiro/androidCalculator/blob/master/calculatorImg.png)
