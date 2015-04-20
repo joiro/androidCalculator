@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="app">
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="buttontext">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:background">#484848</item>
+    </style>
+    <style name="buttontextcalc">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:background">#686868</item>
+    </style>
+
+
+</resources>
